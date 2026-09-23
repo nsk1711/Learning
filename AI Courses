@@ -25,3 +25,8 @@ https://lnkd.in/gB5QtWGw
 7. Fast and Efficient LLM Inference with vLLM, DeepLearning.AI + Red Hat
 For improving inference throughput, latency, and cost.
 https://lnkd.in/gner--EN
+
+If model behavior feels like magic, start with 1 or 2.
+If you can build a demo but struggle with RAG or agents, go to 3 or 4.
+If the system works inconsistently, use 5.
+If the bottleneck is production, latency, or cost, finish with 6 or 7.
